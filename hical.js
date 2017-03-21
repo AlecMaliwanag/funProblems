@@ -22,4 +22,4 @@ const mergeRanges = function merge(array) {
 };
 
 mergeRanges(sampleData);
-
+  
